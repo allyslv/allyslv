@@ -1,4 +1,4 @@
-# 💫 Oi, eu sou o Allysson!
+![github_header_cut](https://github.com/allyslv/allyslv/assets/175219865/11e35841-a35d-4c1f-9809-4100a05e15ab)
 👨🏻‍💻 Estudante do 4º período do curso de Análise e Desenvolvimento de Sistemas na Universidade de Uberaba<br>
 🤓 Sou estagiário na área de desenvolvimento full stack<br>
 🏤 Uma curiosidade: Sou formado em Arquitetura e Urbanismo<br>
