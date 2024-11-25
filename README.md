@@ -1,6 +1,6 @@
 ![github_header_cut](https://github.com/allyslv/allyslv/assets/175219865/11e35841-a35d-4c1f-9809-4100a05e15ab)
 👨🏻‍💻 Estudante do 4º período do curso de Análise e Desenvolvimento de Sistemas na Universidade de Uberaba<br>
-🤓 Sou estagiário na área de desenvolvimento full stack<br>
+🤓 Sou desenvolvedor full stack com foco em Node.js, MySQL, Angular, HTML5 e CSS3<br>
 🏤 Uma curiosidade: Sou formado em Arquitetura e Urbanismo<br>
 🎨 Minha proximidade com o design em geral me fez ter interesse pela programação front-end e UI/UX<br>
 🎮 Nos momentos de lazer, você pode me encontrar jogando
